@@ -13,7 +13,9 @@ The outline and much of the material for this course lives [here](https://traini
 	*Handy for both learning and quickly looking up Markdown syntax.*
 
 #### Show Current Branch in Terminal Prompt
-Add these lines to your `~/.bashrc` file:
+![terminal-prompt](https://cloud.githubusercontent.com/assets/2132216/7382003/b514a288-edbe-11e4-9162-ea065519ea08.png)
+
+To get the pictured behavior, add these lines to your `~/.bashrc` file:
 ```bash
 # show current git branch in prompt
 parse_git_branch() {
