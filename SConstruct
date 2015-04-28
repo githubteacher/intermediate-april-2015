@@ -6,6 +6,6 @@ cpp_flags = Split('''-std=c++1y
 
 build_env = Environment(CXXFLAGS = cpp_flags)   
 
-main_program = 'Main.cc'
+main_program = ['Main.cc', 'IO.cc']
 executable = 'RunMe'
 build_env.Program(source = main_program, target = executable)
