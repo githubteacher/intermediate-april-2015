@@ -2,6 +2,10 @@
 #define __IO_hh__
 
 
+#include <string>
+#include <vector>
+
+
 namespace IO {
 using namespace std;
 
