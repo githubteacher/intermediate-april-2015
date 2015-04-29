@@ -11,6 +11,7 @@ The outline and much of the material for this course lives [here](https://traini
   *A thorough introduction to Git and how to use it, including a section on GitHub.*
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 	*Handy for both learning and quickly looking up Markdown syntax.*
+- A [blog post](http://git-scm.com/blog/2011/07/11/reset.html) on `git reset` *Hat tip to @pcharlan for the link.*
 
 #### Show Current Branch in Terminal Prompt
 ![terminal-prompt](https://cloud.githubusercontent.com/assets/2132216/7382003/b514a288-edbe-11e4-9162-ea065519ea08.png)
