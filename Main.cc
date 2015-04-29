@@ -10,7 +10,9 @@ int main(int argc, char* argv[])
 
 
     try {
-
+        vector<string> inputArgs {IO::GetArgs(argc, argv)};
+        for (const auto& arg : inputArgs)
+            cout << arg << '\n';
     }
     catch (exception& e) {
         cerr << e.what() << '\n';
